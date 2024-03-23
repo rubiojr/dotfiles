@@ -1,0 +1,23 @@
+.window-chatpage {
+  font-size: 22px;
+}
+
+/*.message-content-box .thumbnail-embed {
+ padding: 16px;
+}*/
+
+.message-cozy .message-cozy-header {
+  margin-top: 30px;
+}
+
+.message-cozy .message-cozy-avatar {
+  margin-top: 30px;
+}
+
+.message-content-box .message-reply-content {
+  font-size: 22px;
+}
+
+.message-normalembed .message-normalembed-body {
+  font-size: 22px;
+}
